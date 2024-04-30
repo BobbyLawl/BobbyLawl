@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Bobbylawlor727@gmail.com**
 
-- ⚡ Fun fact **the first ever video game competition was held at Stanford University in 1972**
+- ⚡ Fun fact **- the first ever video game competition was held at Stanford University in 1972**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
