@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bobbylawl" alt="bobbylawl" /></a> </p>
 
-- 🔭 I’m currently working on **a Portland Crime Dataset**
+- 🔭 I’m currently working on **completing my Data Science & Analytics bootcamp**
 
-- 🌱 I’m currently learning **cleaning, modeling, training, and interpreting raw data.**
+- 🌱 I’m currently learning **software engineering, predicitive modeling, and coding practice**
 
-- 💬 Ask me about **comics**
+- 💬 Ask me about **games**
 
-- 📫 How to reach me **B.lawlor@realnerdsrt.com**
+- 📫 How to reach me **Bobbylawlor727@gmail.com**
 
-- ⚡ Fun fact **I'm originally from Philadelphia.**
+- ⚡ Fun fact **the first ever video game competition was held at Stanford University in 1972**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
